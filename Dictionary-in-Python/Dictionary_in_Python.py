@@ -5,5 +5,7 @@ print(mydict["green"])
 del mydict["red"]
 print(mydict)
 #_______________________________________________________
-print(mydict.get("gree","====ERROR===="))
+print(mydict.get("green","====ERROR===="))
+#_______________________________________________________
+
 

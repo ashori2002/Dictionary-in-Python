@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dictionary-in-Python", "Dictionary-in-Python\Dictionary-in-Python.pyproj", "{E1AC2556-010A-4A55-B2EC-C4F554E17830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AC2556-010A-4A55-B2EC-C4F554E17830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AC2556-010A-4A55-B2EC-C4F554E17830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F5B9CD4-0F81-42D2-A625-FD16E498D1EE}
+	EndGlobalSection
+EndGlobal
